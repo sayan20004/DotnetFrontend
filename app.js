@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5115/api/todos";
+const API_BASE = "https://dotnettodo.onrender.com/api/todos";
 
 const todoInput = document.getElementById("todoInput");
 const addBtn = document.getElementById("addBtn");
